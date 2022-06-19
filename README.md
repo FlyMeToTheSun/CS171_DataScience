@@ -18,7 +18,6 @@ Feature Extraction from Audio:
 3.  Save the extracted features, and the correspoding genre label in csv format.
 4.  Submit the wav files, pdf file (see sample attached file below), and the csv dataset file.
 
-Develop a mini dataset from any of the following:
 <img src="python_code.jpg" alt="Alt text" title="Optional title">
 If these files cannot be accomodated in this link, you may place them Google Drive and place the link here. Be sure to allow me to access the drive. 
 
