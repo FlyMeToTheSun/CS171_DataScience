@@ -1,6 +1,10 @@
 # Data Science
 ## Assignment 1.3 (initial output) *
 Conduct image segmentation, representation, and feature extraction. Use or improve the attached file for the report.
+https://www.analytixlabs.co.in/blog/what-is-image-segmentation/
+https://docs.opencv.org/4.x/d3/db4/tutorial_py_watershed.html
+https://towardsdatascience.com/image-segmentation-with-six-lines-0f-code-acb870a462e8
+https://www.youtube.com/watch?v=qfUJHY3ku9k
 
 ## Assignment 3 (M1) Complete Image Pre-processing 
 Upload the completed output of the activity here. Including the code.  
