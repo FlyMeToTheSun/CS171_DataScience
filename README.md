@@ -14,24 +14,23 @@ Feature Extraction from Audio:
 4.  Submit the wav files, pdf file (see sample attached file below), and the csv dataset file.
 
 Develop a mini dataset from any of the following:
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](python code.jpg)
 If these files cannot be accomodated in this link, you may place them Google Drive and place the link here. Be sure to allow me to access the drive. 
 
 # Assignment: Module 1 Summative Assessment 
-emotion recognition thru voice
-you may get raw data (at least 5 files on each class of emotion) from https://www.kaggle.com/uldisvalainis/audio-emotions
-extract all necessary voice features on each file, such as MFCC, LPCC, Pitch, Intensity, etc. using Praat or similar tools.
-document how you conducted the process (specify the technique, tools, or algorithms you used if possible).
-emotion recognition thru facial expressions
-you may get raw data (at least 5 files on each class of emotion) from https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
-extract all necessary facial features on each file, needed to recognize emotion (e.g. facial Action Units, etc).
-document how you conducted the process (specify the technique, tools, or algorithms you used if possible).
-object detection and classification
-you may get raw data (at least 5 files on 7 classes of fishes) from https://www.kaggle.com/crowww/a-large-scale-fish-dataset
-extract all necessary fish features on each file, needed to classify each fish.  
-document how you conducted the process (specify the technique, tools, or algorithms you used if possible).
-or other machine learning applications (be sure to have good raw data).
+1) emotion recognition thru voice
+- you may get raw data (at least 5 files on each class of emotion) from https://www.kaggle.com/uldisvalainis/audio-emotions
+- extract all necessary voice features on each file, such as MFCC, LPCC, Pitch, Intensity, etc. using Praat or similar tools.
+- document how you conducted the process (specify the technique, tools, or algorithms you used if possible).
+2) emotion recognition thru facial expressions
+- you may get raw data (at least 5 files on each class of emotion) from https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
+- extract all necessary facial features on each file, needed to recognize emotion (e.g. facial Action Units, etc).
+- document how you conducted the process (specify the technique, tools, or algorithms you used if possible).
+3) object detection and classification
+- you may get raw data (at least 5 files on 7 classes of fishes) from https://www.kaggle.com/crowww/a-large-scale-fish-dataset
+- extract all necessary fish features on each file, needed to classify each fish.  
+- document how you conducted the process (specify the technique, tools, or algorithms you used if possible).
+4) or other machine learning applications (be sure to have good raw data).
 NOTES:
-
-This is a group activity.
-Submit the raw data, the documentation of each process, and add the dataset with the corresponding label in a CSV file. 
+- This is a group activity.
+- Submit the raw data, the documentation of each process, and add the dataset with the corresponding label in a CSV file. 
