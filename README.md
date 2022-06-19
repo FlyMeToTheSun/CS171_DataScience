@@ -14,7 +14,7 @@ Feature Extraction from Audio:
 4.  Submit the wav files, pdf file (see sample attached file below), and the csv dataset file.
 
 Develop a mini dataset from any of the following:
-![This is an image](python code.jpg)
+![This is an image](/python code.jpg)
 If these files cannot be accomodated in this link, you may place them Google Drive and place the link here. Be sure to allow me to access the drive. 
 
 # Assignment: Module 1 Summative Assessment 
