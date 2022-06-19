@@ -14,6 +14,8 @@ Feature Extraction from Audio:
 4.  Submit the wav files, pdf file (see sample attached file below), and the csv dataset file.
 
 Develop a mini dataset from any of the following:
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+If these files cannot be accomodated in this link, you may place them Google Drive and place the link here. Be sure to allow me to access the drive. 
 
 # Assignment: Module 1 Summative Assessment 
 emotion recognition thru voice
