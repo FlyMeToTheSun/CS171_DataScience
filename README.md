@@ -1,11 +1,11 @@
 # Data Science
-### Assignment 1.3 (initial output) *
+## Assignment 1.3 (initial output) *
 Conduct image segmentation, representation, and feature extraction. Use or improve the attached file for the report.
 
-### Assignment 3 (M1) Complete Image Pre-processing 
+## Assignment 3 (M1) Complete Image Pre-processing 
 Upload the completed output of the activity here. Including the code.  
 
-### Assignment 4 (M1)
+## Assignment 4 (M1)
 Feature Extraction from Audio: 
 1.  Download two (2) wav music files (even the chorus only) with different genre.  
 2.  Using the sites shown below, extract audio features from the two music files.      
@@ -18,7 +18,7 @@ Develop a mini dataset from any of the following:
 <img src="python_code.jpg" alt="Alt text" title="Optional title">
 If these files cannot be accomodated in this link, you may place them Google Drive and place the link here. Be sure to allow me to access the drive. 
 
-### Assignment: Module 1 Summative Assessment 
+## Assignment: Module 1 Summative Assessment 
 1) emotion recognition thru voice
 - you may get raw data (at least 5 files on each class of emotion) from https://www.kaggle.com/uldisvalainis/audio-emotions
 - extract all necessary voice features on each file, such as MFCC, LPCC, Pitch, Intensity, etc. using Praat or similar tools.
